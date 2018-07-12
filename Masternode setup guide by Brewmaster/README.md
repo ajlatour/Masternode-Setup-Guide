@@ -136,7 +136,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Rhenium wallet [here](https://github.com/Rheniumnetwork/Wallets)
+* Download and install the Rhenium wallet [here](https://github.com/Rheniumnetwork/Rhenium/releases/tag/v3.0.6)
 ***
 
 ***Step 2***
